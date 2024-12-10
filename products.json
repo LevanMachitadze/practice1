@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Product 1",
+      "description": "Description for product 1",
+      "price": 25.5,
+      "color": "red"
+    },
+    {
+      "name": "Product 2",
+      "description": "Description for product 2",
+      "price": 40.0,
+      "color": "blue"
+    },
+    {
+      "name": "Product 3",
+      "description": "Description for product 3",
+      "price": 15.0,
+      "color": "green"
+    },
+    {
+      "name": "Product 4",
+      "description": "Description for product 4",
+      "price": 30.0,
+      "color": "yellow"
+    }
+  ]
+  
